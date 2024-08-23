@@ -95,3 +95,7 @@
 <h2>Pattern-24</h2>
 
 ![image](https://github.com/user-attachments/assets/b45e65ff-0a12-4f55-8c38-68ec02d6aff4)
+
+<h2>Pattern-25</h2>
+
+![image](https://github.com/user-attachments/assets/aee0cc00-c01c-4b5e-a20d-14015a19322c)
