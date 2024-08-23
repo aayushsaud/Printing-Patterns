@@ -99,3 +99,7 @@
 <h2>Pattern-25</h2>
 
 ![image](https://github.com/user-attachments/assets/aee0cc00-c01c-4b5e-a20d-14015a19322c)
+
+<h2>Pattern-26</h2>
+
+![image](https://github.com/user-attachments/assets/6d0a9fc6-03d6-454a-8350-f6964645154d)
